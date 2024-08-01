@@ -26,7 +26,7 @@ class _SSInAppViewState extends State<SSInAppView> {
     // Fetch configuration
     // Mocked response
     final showSurvey = true; // Replace with actual logic
-    final surveyLink = 'https://google.com'; // Replace with actual URL
+    final surveyLink = 'https://8e46-dev-micro.surveysensum.com/inapp/api/v2/inapp/contact-surveyLink?token=WnSCQOWgwc3O8xf2SQUkyUb5TSIzKQBaOR5rPlbxoGVMHbOsgF2EOPa1VD4obDb%2BEUboOtDO4jJ9czohw5MroQ%3D%3D'; // Replace with actual URL
 
     if (showSurvey) {
       setState(() {
