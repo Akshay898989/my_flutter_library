@@ -9,6 +9,9 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
+  http: ^1.2.2
+  shared_preferences: ^2.0.15
+  webview_flutter: ^3.0.0
 
 dev_dependencies:
   flutter_test:
